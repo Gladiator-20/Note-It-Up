@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://gladiator-20.github.io/csb-k4vnwe/static/js/main.f2d0fb0b.chunk.js",
+    "main.js.map": "https://gladiator-20.github.io/csb-k4vnwe/static/js/main.f2d0fb0b.chunk.js.map",
+    "runtime-main.js": "https://gladiator-20.github.io/csb-k4vnwe/static/js/runtime-main.0a888ccb.js",
+    "runtime-main.js.map": "https://gladiator-20.github.io/csb-k4vnwe/static/js/runtime-main.0a888ccb.js.map",
+    "static/js/2.4b0dee0d.chunk.js": "https://gladiator-20.github.io/csb-k4vnwe/static/js/2.4b0dee0d.chunk.js",
+    "static/js/2.4b0dee0d.chunk.js.map": "https://gladiator-20.github.io/csb-k4vnwe/static/js/2.4b0dee0d.chunk.js.map",
+    "index.html": "https://gladiator-20.github.io/csb-k4vnwe/index.html",
+    "precache-manifest.7793c48e882fba31c06c8d435673b713.js": "https://gladiator-20.github.io/csb-k4vnwe/precache-manifest.7793c48e882fba31c06c8d435673b713.js",
+    "service-worker.js": "https://gladiator-20.github.io/csb-k4vnwe/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a888ccb.js",
+    "static/js/2.4b0dee0d.chunk.js",
+    "static/js/main.f2d0fb0b.chunk.js"
+  ]
+}
